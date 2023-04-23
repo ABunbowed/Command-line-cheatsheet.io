@@ -1,0 +1,37 @@
+* {
+    font-family: 'Castoro Titling', cursive;
+
+
+}
+body{
+    background-color: rgb(207, 201, 201);
+}
+table {
+    border: 1px solid black;
+}
+
+h1, h2 {
+    text-align: center;
+    color: white;
+    background-color: rgb(119, 32, 32);
+}
+
+h2 {
+    
+    width: 200px;
+    margin: 20px auto;
+}
+
+table {
+    text-align: center;
+    margin: 0 auto;
+}
+
+td{
+    border-top: 1px solid black;
+}
+
+th{
+    color: white;
+    background-color: rgb(119, 32, 32);
+}
